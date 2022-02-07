@@ -12,6 +12,12 @@ print(b)
 print(napis)
 
 
+wprowadz = input("podaj zmienną od uzytkownika: ")
+print(wprowadz)
+
+
+
+
 
 
 
