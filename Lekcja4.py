@@ -1,14 +1,8 @@
-#funkcje - szkielet
-
-#rodzaje funkcji
-
-# iteracja
+#zagnieżdżenia w pętli for
 
 
-# rekurencja
 
-
-# obliczanie rekurencyjne
+#pętla while
 
 
 
